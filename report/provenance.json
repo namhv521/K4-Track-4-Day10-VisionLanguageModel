@@ -1,0 +1,8 @@
+{
+  "student": "Hoàng Văn Nam",
+  "student_id": "2A202602853",
+  "dataset_version": "d10-21e4070301",
+  "prompt": "Locate every pothole, crack and manhole in this road image. Return ONLY a JSON list: [{\"label\":\"pothole|crack|manhole\",\"bbox_2d\":[x1,y1,x2,y2]}]. Coordinates must be integers on the normalized 0-1000 scale, relative to image width and height. Use tight boxes. Return [] if none. No explanations or markdown.",
+  "source_sha256": "8eb5c9f4ef58f0d730e56eb1839ad4df5b6563e918579a95b93fb9864ed03425",
+  "git_commit": "c2f39979458d5b10b1055c6ab47d6bd855b73151"
+}

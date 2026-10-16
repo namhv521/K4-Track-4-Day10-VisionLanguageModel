@@ -1,0 +1,17 @@
+{
+  "name": "E2",
+  "setup": "E2",
+  "rank": 16,
+  "train_fraction": 1.0,
+  "seed": 42,
+  "trainable_params": 142135296,
+  "batch_size": 1,
+  "grad_accum": 8,
+  "max_steps": 300,
+  "optimizer": "torch.optim.AdamW",
+  "lr": 0.0002,
+  "completed_steps": 300,
+  "train_minutes": 58.8283226536,
+  "peak_vram_gb": 6.730400562286377,
+  "train_images": 1422
+}

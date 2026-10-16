@@ -1,0 +1,13 @@
+{
+  "setup": "E3",
+  "green": "Ground truth",
+  "red": "Prediction",
+  "image_ids": [
+    "vlcsnap-00200",
+    "vlcsnap-2025-02-18-23h12m28s438",
+    "vlcsnap-2025-02-18-23h15m54s469",
+    "vlcsnap-2025-02-18-23h25m14s922",
+    "vlcsnap-2025-02-18-23h30m06s450",
+    "vlcsnap-2025-02-19-17h04m49s140"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "experiments_complete": true,
+  "submission_ready": false,
+  "rubric": {
+    "e1_parse_valid_rate_at_least_0.95": true,
+    "e1_f1_improvement_at_least_0.10": true
+  },
+  "checker_returncode": 1,
+  "checker_output": "[PASS] evidence e0\n[PASS] evidence e1\n[PASS] evidence e2\n[PASS] evidence e3\n[PASS] evidence e4 — 2 file\n[PASS] e1 meta\n[PASS] e2 meta\n[PASS] e3 meta\n[PASS] dataset_version nhất quán — ['d10-21e4070301']\n[PASS] khớp data/splits/meta.json\n[PASS] REPORT.md đã điền — còn chuỗi '<điền'\n[FAIL] git commits — 1/5\n[PASS] git forbidden files\n\n1 FAIL, 0 WARN\n",
+  "student_name": "Hoàng Văn Nam",
+  "student_id": "2A202602853"
+}

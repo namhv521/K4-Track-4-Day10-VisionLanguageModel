@@ -1,0 +1,68 @@
+[
+  {
+    "image_id": "vlcsnap-00204",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "f1": 1.0,
+    "valid_json": true,
+    "mean_iou": 0.7186196021384608,
+    "path": "report/examples/e3_1.jpg",
+    "selection": "highest F1 with TP"
+  },
+  {
+    "image_id": "vlcsnap-00206",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "f1": 1.0,
+    "valid_json": true,
+    "mean_iou": 0.7530707612855856,
+    "path": "report/examples/e3_2.jpg",
+    "selection": "highest F1 with TP"
+  },
+  {
+    "image_id": "vlcsnap-00208",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "f1": 1.0,
+    "valid_json": true,
+    "mean_iou": 0.7143757065920219,
+    "path": "report/examples/e3_3.jpg",
+    "selection": "highest F1 with TP"
+  },
+  {
+    "image_id": "vlcsnap-2025-02-18-23h30m29s649",
+    "tp": 0,
+    "fp": 6,
+    "fn": 3,
+    "f1": 0.0,
+    "valid_json": true,
+    "mean_iou": 0,
+    "path": "report/examples/e3_4.jpg",
+    "selection": "most FP+FN"
+  },
+  {
+    "image_id": "vlcsnap-2025-02-19-17h03m06s413",
+    "tp": 1,
+    "fp": 5,
+    "fn": 4,
+    "f1": 0.18181818181818182,
+    "valid_json": true,
+    "mean_iou": 0.7406365974505258,
+    "path": "report/examples/e3_5.jpg",
+    "selection": "most FP+FN"
+  },
+  {
+    "image_id": "vlcsnap-2025-02-18-23h16m47s802",
+    "tp": 0,
+    "fp": 5,
+    "fn": 3,
+    "f1": 0.0,
+    "valid_json": true,
+    "mean_iou": 0,
+    "path": "report/examples/e3_6.jpg",
+    "selection": "most FP+FN"
+  }
+]
